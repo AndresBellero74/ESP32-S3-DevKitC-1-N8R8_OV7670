@@ -18,4 +18,5 @@ Las conecciones a la camara son las siguientes:
 #define VSYNC_GPIO_NUM   7
 #define HREF_GPIO_NUM    6
 #define PCLK_GPIO_NUM    5
+Usamos la PSRAM para lograr la maxima resolucion de esta camara que es 640 x 480.
 
