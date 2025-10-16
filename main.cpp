@@ -44,8 +44,8 @@ const int D7 = 12;*/
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "Telecentro-2be3";
-const char* password = "GU3QFXA6FH47";
+const char* ssid = "Red wifi";
+const char* password = "Clave wifi";
 // IP fija
 IPAddress local_IP(192, 168, 0, 250);      // IP deseada
 IPAddress gateway(192, 168, 0, 1);         // IP del router
