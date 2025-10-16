@@ -19,4 +19,5 @@ Las conecciones a la camara son las siguientes:
 #define HREF_GPIO_NUM    6
 #define PCLK_GPIO_NUM    5
 Usamos la PSRAM para lograr la maxima resolucion de esta camara que es 640 x 480.
-
+viene codigo platformio para esp32-s3 y camara ov7670
+viene codigo python cliente que muestra imagenes de la camara.
